@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @Audrey-Teles.
 - 👀 Curto programar em c/c++, python, java e tenho conhecimentos sobre SQL.
-- 🌱 Eu estou aprofundando java e python atualmente.
+- 🌱 Atualmente eu estou aprofundando em HTML e java.
 - 💞️ Gostaria de compartilhar meus conhecimentos com a comunidade.
 - 📫 Se alguém quiser entrar em contato comigo, por algum motivo relevante, envie um email para audreytelesdossantos2021@gmail.com.
 
