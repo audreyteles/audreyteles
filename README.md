@@ -13,7 +13,7 @@
 <br><h3>Sobre mim</h3>
 - 👋 Oi, eu sou @Audrey-Teles.
 - 👀 Curto programar em C/C++, Python, Java e tenho conhecimentos sobre HTML, CSS, banco de dados MySQL e Arduino.
-- 🌱 Atualmente estou aprofundando em Desenvolvimento Web e Java.
+- 🌱 Atualmente estou aprofundando em desenvolvimento Java.
 - 💞️ Gostaria de compartilhar meus conhecimentos com a comunidade.
 - 📫 Email de contato: audreytelesdossantos2021@gmail.com.
 
