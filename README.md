@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Linguagens</h3>
 <br><div>
    <img src="https://user-images.githubusercontent.com/68817384/145720834-9a644d88-592a-4919-b92d-50f69aee5519.png" width="30"/>
