@@ -6,20 +6,21 @@
    <img src="https://user-images.githubusercontent.com/68817384/145720981-e5ba0433-3f3d-4a97-a6fb-5a7f2f3f9146.png" width="35"/>
    <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
    <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
    <img src="https://img.icons8.com/color/40/000000/arduino.png" width="35"/>
    <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
-   <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>
+   
    
 </div>
-
+<!--
 <h3>Frameworks</h3>
 <br><div>
    <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
    <img src="https://img.icons8.com/fluency/40/000000/flask.png"/>
 <div>
-   
+-->   
 </div>
 
 <br><h3>Sobre mim</h3>
