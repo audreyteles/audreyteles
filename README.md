@@ -17,16 +17,7 @@
 - 👀 Curto programar em C/C++, Python, Java e tenho conhecimentos sobre HTML, CSS, banco de dados MySQL e Arduino.
 - 🌱 Atualmente estou aprofundando em desenvolvimento Python e Inteligência Artificial.
 - 💞️ Gostaria de compartilhar meus conhecimentos com a comunidade.
-- 📫 Email de contato: audreytelesdossantos2021@gmail.com.
+- 📫 Email de contato: audreytelesdossantos@gmail.com.
 
 
-<div><h3>Créditos</h3>
-  <ul>
-  <li>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></li>
-  <li><a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a></li>
-  <li><a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a></li>
-  <li><a href="https://icons8.com/icon/13444/arduino">Arduino icon by Icons8</a></li>
-  <li><a href="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo">MySQL Logo icon by Icons8</a></li>
-  <li><a href="https://icons8.com/icon/20909/html-5">Html 5 icon by Icons8</a></li>
-  <li><a href="https://icons8.com/icon/21278/css3">CSS3 icon by Icons8</a></li>
-</div>
+Ícones por <a href="https://www.freepik.com" title="Freepik">Freepik</a> e <a href="https://icons8.com.br/" title="Icons8">Icons8</a>
