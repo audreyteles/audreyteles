@@ -4,12 +4,14 @@
 <br><div>
    <img src="https://user-images.githubusercontent.com/68817384/145720834-9a644d88-592a-4919-b92d-50f69aee5519.png" width="30"/>
    <img src="https://user-images.githubusercontent.com/68817384/145720981-e5ba0433-3f3d-4a97-a6fb-5a7f2f3f9146.png" width="35"/>
-   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="35"/>
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="35"/>
-   <img src="https://img.icons8.com/color/48/000000/arduino.png" width="35"/>
-   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width = "35"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="35"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png" width="35"/>
+   <img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
+   <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/color/40/000000/arduino.png" width="35"/>
+   <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/color/40/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
+   <img src="https://img.icons8.com/fluency/40/000000/flask.png"/>
 </div>
 
 <br><h3>Sobre mim</h3>
