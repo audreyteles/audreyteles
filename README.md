@@ -12,6 +12,8 @@
    <img src="https://img.icons8.com/color/40/000000/mysql-logo.png"/>
    <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
    <img src="https://img.icons8.com/color/40/000000/css3.png"/>
+   <img src="https://laravel.com/img/logomark.min.svg" width="35"/>
+   <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" width="85"/>
    
    
 </div>
