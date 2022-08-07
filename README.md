@@ -1,7 +1,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audrey-Teles&show_icons=true&theme=vue-dark)-->   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Linguagens</h3>
+<h3>Linguagens e Frameworks</h3>
 <br><div>
    <img src="https://user-images.githubusercontent.com/68817384/145720834-9a644d88-592a-4919-b92d-50f69aee5519.png" width="30"/>
    <img src="https://user-images.githubusercontent.com/68817384/145720981-e5ba0433-3f3d-4a97-a6fb-5a7f2f3f9146.png" width="35"/>
