@@ -45,5 +45,4 @@
 - 💞️ I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
 
-
-Ícones by <a href="https://www.freepik.com" title="Freepik">Freepik</a> e <a href="https://icons8.com.br/" title="Icons8">Icons8</a>
+Icons by <a href="https://www.freepik.com" title="Freepik">Freepik</a> e <a href="https://icons8.com.br/" title="Icons8">Icons8</a>
