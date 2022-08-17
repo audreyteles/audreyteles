@@ -1,5 +1,8 @@
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audrey-Teles&show_icons=true&theme=vue-dark)-->   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audrey-Teles&show_icons=true&theme=vue-dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3>Linguagens e Frameworks</h3>
 <br><div>
