@@ -99,7 +99,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 <br><h3>About me</h3>
 - 👋 Hi, I'm @Audrey-Teles.
-- 👀 I enjoy programming in C/C++, Python, Java and have knowledge in HTML, CSS, MyQL database and Arduino.
+- 👀 I enjoy programming in C/C++, Python, Java, PHP and have knowledge in HTML, CSS, MyQL database and Arduino.
 - 🌱 I currently delving into Python development and AI.
 - 💞️ I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
