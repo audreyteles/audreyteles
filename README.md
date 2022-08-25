@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2018%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,7 +51,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2022 18:55:00 UTC
+ Last Updated on 25/08/2022 18:47:10 UTC
 <!--END_SECTION:waka-->
 
 
