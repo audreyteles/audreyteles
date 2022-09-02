@@ -102,6 +102,12 @@ C                        1 repo              ██░░░░░░░░░�
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/>
 </div>
 
+<br><h3>Online Projects</h3>
+
+- API REST for PingCast.com -> https://pingcast-api.herokuapp.com/
+- Discord clone Login -> https://audrey-teles.github.io/Discord-Login-Clone/
+- Ordle (work in progress) -> https://ordle.onrender.com/
+
 <br><h3>About me</h3>
 - 👋 Hi, I'm @Audrey-Teles.
 - 👀 I enjoy programming in C/C++, Python, Java, PHP and have knowledge in HTML, CSS, MyQL database and Arduino.
