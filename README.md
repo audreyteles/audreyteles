@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2046%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -33,9 +33,9 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-CLion                    2 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.82% 
-WebStorm                 2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.99% 
-GoLand                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   23.2%
+CLion                    5 hrs 42 mins       ███████████████░░░░░░░░░░   62.54% 
+GoLand                   2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.49% 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
 
 ```
 
@@ -52,7 +52,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2022 18:49:06 UTC
+ Last Updated on 12/09/2022 18:53:10 UTC
 <!--END_SECTION:waka-->
 
 
