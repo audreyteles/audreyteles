@@ -1,8 +1,6 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audrey-Teles&show_icons=true&theme=vue-dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2030%20mins-blue)
 
