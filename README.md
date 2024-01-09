@@ -102,7 +102,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 <br><h3>Online Projects</h3>
 
-- Conexão Paranormal - Paranormal Order RPG Game -> http://conexaoop.vercel.app/ 
+- 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/ ) - Paranormal Order RPG Game 
 
 <!--
 - API REST for PingCast.com -> https://pingcast-api.herokuapp.com/
