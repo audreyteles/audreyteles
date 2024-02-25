@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2030%20mins-blue) 
 
 **I'm a Night 🦉** 
 
@@ -118,3 +118,4 @@ C                        1 repo              █░░░░░░░░░░�
 - 💞️ I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3UX801)
