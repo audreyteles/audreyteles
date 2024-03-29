@@ -31,7 +31,7 @@
 -->
 
 #### About me
-- 👋 Hi, I'm @Audrey-Teles.
+- 👋 Hi, I'm @audreyteles.
 - 🌱 I currently delving into Python development and Artificial Intelligence.
 - 💞️ I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
