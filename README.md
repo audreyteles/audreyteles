@@ -1,109 +1,28 @@
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audrey-Teles&show_icons=true&theme=vue-dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Teles&hide=html,css&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->  
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2030%20mins-blue) 
+#### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 
-**I'm a Night 🦉** 
+#### 📚 Frameworks and Libraries
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)<br>![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<br>![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-```text
-🌞 Morning    25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-🌆 Daytime    90 commits     ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-🌃 Evening    145 commits    █████████░░░░░░░░░░░░░░░░   38.98% 
-🌙 Night      112 commits    ███████░░░░░░░░░░░░░░░░░░   30.11%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Tuesday      47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
-Thursday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-Friday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Saturday     79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
-Sunday       65 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47%
-
-```
+#### 🛠️ Tools and Platforms
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-📊 **This Week I Spent My Time On** 
+#### 💾 Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-```text
-⌚︎ Time Zone: America/Sao_Paulo
+#### ☁️ Hosting/SaaS
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-🔥 Editors: 
-PyCharm                  10 hrs 28 mins      █████████████████████████   100.0%
+#### Available Projects
 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   13 repos            ██████████████░░░░░░░░░░░   59.09% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-
- Last Updated on 27/12/2022 18:39:01 UTC
-<!--END_SECTION:waka-->
-
-
-<h3>Languages and Frameworks</h3>
-<br><div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="40"/>
-          
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40"/>
-                   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-            
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="40"/>        
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40"/>
-            
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
-</div>
-
-<h3>Tools and Platforms</h3>
-<div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" width="40"/>
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="40"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40"/>
-</div>
-
-<br><h3>Online Projects</h3>
-
-- 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/ ) - Paranormal Order RPG Game 
-
+- 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/ ) - Puzzle game based on Paranormal Order RPG (2023/2024).
+- 🎮 [Memória Paranormal](http://conexaoopmemorias.vercel.app/ ) - Memory game based on Paranormal Order RPG (2023).
+- 🎮 [Gamific API](https://testapigamific.onrender.com/) - API for a gamification platform created as an academic project (2022).
+- 💬 [Assistente de Voz](https://audrey-teles.gitbook.io/assistente-de-voz-tecnologia-assistiva) - A voice assistant system to help visually impaired people use computers in Brazilian Portuguese, created as my TCC project (2022).
+- 🌐 [Discord Login Clone](https://audreyteles.github.io/Discord-Login-Clone/) - Basic Discord login clone with only HTML and CSS (2022).
 <!--
 - API REST for PingCast.com -> https://pingcast-api.herokuapp.com/
 - Discord clone Login -> https://audrey-teles.github.io/Discord-Login-Clone/
@@ -111,11 +30,8 @@ C                        1 repo              █░░░░░░░░░░�
 - Node.js API -> https://apinode-pink.vercel.app/
 -->
 
-<br><h3>About me</h3>
+#### About me
 - 👋 Hi, I'm @Audrey-Teles.
-- 👀 I enjoy programming in C/C++, Python, Java, PHP and have knowledge in HTML, CSS, MySQL database and Arduino.
-- 🌱 I currently delving into Python development and deep learning.
+- 🌱 I currently delving into Python development and Artificial Intelligence.
 - 💞️ I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3UX801)
