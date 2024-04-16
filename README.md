@@ -19,6 +19,7 @@
 #### Available Projects
 
 - 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/ ) - Puzzle game based on Paranormal Order RPG (2023/2024).
+- 🎮 [Ordle](http://ordles.vercel.app/ ) - Guessing game based on Paranormal Order RPG (2024).
 - 🎮 [Memória Paranormal](http://conexaoopmemorias.vercel.app/ ) - Memory game based on Paranormal Order RPG (2023).
 - 🎮 [Gamific API](https://testapigamific.onrender.com/) - API for a gamification platform created as an academic project (2022).
 - 💬 [Assistente de Voz](https://audrey-teles.gitbook.io/assistente-de-voz-tecnologia-assistiva) - A voice assistant system to help visually impaired people use computers in Brazilian Portuguese, created as my TCC project (2022).
@@ -33,5 +34,5 @@
 #### About me
 - 👋 Hi, I'm @audreyteles.
 - 🌱 I currently delving into Python development and Artificial Intelligence.
-- 💞️ I would like to share my knowledge with the community.
+- 🌎 I would like to share my knowledge with the community.
 - 📫 Contact e-mail: audreytelesdossantos@gmail.com.
