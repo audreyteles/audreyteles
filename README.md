@@ -18,9 +18,10 @@
 
 #### Available Projects
 
-- 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/ ) - Puzzle game based on Paranormal Order RPG (2023/2024).
+- 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
+- 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/) - Puzzle game based on Paranormal Order RPG (2023/2024).
 - 🎮 [Ordle](http://ordles.vercel.app/ ) - Guessing game based on Paranormal Order RPG (2024).
-- 🎮 [Memória Paranormal](http://conexaoopmemorias.vercel.app/ ) - Memory game based on Paranormal Order RPG (2023).
+- 🎮 [Memória Paranormal](http://conexaoopmemorias.vercel.app/) - Memory game based on Paranormal Order RPG (2023).
 - 🎮 [Gamific API](https://testapigamific.onrender.com/) - API for a gamification platform created as an academic project (2022).
 - 💬 [Assistente de Voz](https://audrey-teles.gitbook.io/assistente-de-voz-tecnologia-assistiva) - A voice assistant system to help visually impaired people use computers in Brazilian Portuguese, created as my TCC project (2022).
 - 🌐 [Discord Login Clone](https://audreyteles.github.io/Discord-Login-Clone/) - Basic Discord login clone with only HTML and CSS (2022).
