@@ -17,9 +17,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### Available Projects
-- 📦 [django-lexpy](https://github.com/audreyteles/django-lexpy) - A Django package to help you organize your texts and languages in a simple way with short keys (2024).  
+- 📦 [django-lexpy](https://github.com/audreyteles/django-lexpy) - A Django package to help you organize your texts and languages in a simple way with short keys (2024).
+- 📷 [who-face](https://github.com/audreyteles/who-face) - A basic face recognition project with deepface library.
 - 🎮 [Enigma da Forca](http://enigmadaforca.vercel.app/) - A hangman's game based on Paranormal Order RPG (2024).
 - 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
+- 📁 [Juntaqui](https://github.com/audreyteles/Juntaqui) - A TUI (Terminal User Interface) can sort your files in a folder created based in your extension (2024).
 - 🎮 [Conexão Paranormal](http://conexaoop.vercel.app/) - Puzzle game based on Paranormal Order RPG (2023/2024).
 - 🎮 [Ordle](http://ordles.vercel.app/ ) - Guessing game based on Paranormal Order RPG (2024).
 - 🎮 [Memória Paranormal](http://conexaoopmemorias.vercel.app/) - Memory game based on Paranormal Order RPG (2023).
