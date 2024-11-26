@@ -18,7 +18,7 @@
 
 #### Available Projects
 - 📦 [django-lexpy](https://github.com/audreyteles/django-lexpy) - A Django package to help you organize your texts and languages in a simple way with short keys (2024).
-- 📷 [who-face](https://github.com/audreyteles/who-face) - A basic face recognition project with deepface library.
+- 📷 [who-face](https://github.com/audreyteles/who-face) - A basic face recognition project with deepface library (2024).
 - 🎮 [Enigma da Forca](http://enigmadaforca.vercel.app/) - A hangman's game based on Paranormal Order RPG (2024).
 - 🎮 [Numove](http://numove.vercel.app/) - A website that calculates how many seconds you've spent with your mouse idle (2024).
 - 📁 [Juntaqui](https://github.com/audreyteles/Juntaqui) - A TUI (Terminal User Interface) can sort your files in a folder created based in your extension (2024).
